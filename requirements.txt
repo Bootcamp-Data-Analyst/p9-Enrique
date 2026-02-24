@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# You can install all dependencies on a new machine with:
+#     pip install -r requirements.txt
+# (Optionally add version specifiers like pandas>=1.5 if needed)
